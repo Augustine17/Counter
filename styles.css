@@ -1,0 +1,27 @@
+.root{
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+}
+
+.heading{
+    font-size: 32px;
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    font-size: 24px;
+    padding: 10px;
+    background: cyan;
+    border-radius: 20px;
+    color: darkblue;
+    cursor: pointer;
+}
+
+.reset{
+    margin-top: 20px;
+    font-size: 24px;
+    cursor: pointer;
+}
